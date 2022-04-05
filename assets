@@ -1,0 +1,24 @@
+{
+    "attributes":[
+        {
+            "trait_type": "Hairstyle",
+            "value": "Mullet"
+        },
+        {
+            "trait_type": "Hairtype",
+            "value": "Curly"
+        },
+        {
+            "trait_type":"Origin",
+            "value":"Indonesia"
+        },
+        {
+            "trait_type":"Favourite Food",
+            "value":"Pizza"
+        },
+        {
+            "trait_type":"Zodiac",
+            "value":"Virgo"
+        }
+    ]
+}
