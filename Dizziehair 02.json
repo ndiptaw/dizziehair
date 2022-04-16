@@ -1,23 +1,4 @@
 {
-    "name":"Dizziehair #02",
-    "symbol":"DZHG",
-    "image":"https://arweave.net/jS4Ak52OoQSXVRyOopbpeX2_V_dBgofoPFsfDk3qQ3M",
-    "properties": {
-        "files": [
-            {
-                "uri": "https://arweave.net/jS4Ak52OoQSXVRyOopbpeX2_V_dBgofoPFsfDk3qQ3M",
-                "type": "image/png"
-            }
-        ],
-        "category": "image",
-        "creators": [
-            {
-                "address": "7fdQXKvwawu6xk9pjYxbLgjaVD11fFX4tNJnSjoAamXa",
-                "share": 100
-            }
-        ]
-    },
-    "sellerFeeBasisPoints":1000,
     "attributes":[
         {
             "trait_type":"Hairstyle",
