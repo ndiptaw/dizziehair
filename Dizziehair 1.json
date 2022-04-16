@@ -1,6 +1,14 @@
 {
     "name":"Dizziehair #1",
     "symbol":"DZHG",
+    "image":"https://arweave.net/EmCthD9GHKdvRT_0SjlT_oqgMVktHsWl3TLqa5tTgww",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/EmCthD9GHKdvRT_0SjlT_oqgMVktHsWl3TLqa5tTgww",
+                "type": "image/png"
+            }
+        ],
         "category": "image",
         "creators": [
             {
